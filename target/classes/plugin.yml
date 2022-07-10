@@ -1,6 +1,6 @@
-name: BlockBreakMob
-version: 1.0.1
-api-version: 1.16
+name: RiskyBlocks
+version: 1.0.2
+api-version: 1.19
 author: NotPseudo
-main: main.java.me.notpseudo.riskyblock.Main
+main: main.java.me.notpseudo.riskyblocks.Main
 commands:
