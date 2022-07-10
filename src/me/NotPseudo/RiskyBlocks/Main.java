@@ -8,7 +8,7 @@ public class Main extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        new blockBreak(this);
-        new lifesteal(this);
+        new BlockBreak(this);
+        new LifeSteal(this);
     }
 }
