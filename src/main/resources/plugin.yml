@@ -1,0 +1,6 @@
+name: BlockBreakMob
+version: 1.0.1
+api-version: 1.16
+author: NotPseudo
+main: main.java.me.notpseudo.riskyblock.Main
+commands:

@@ -1,6 +1,7 @@
-package me.NotPseudo.RiskyBlocks;
+package main.java.me.notpseudo.riskyblocks;
 
-import me.NotPseudo.RiskyBlocks.listeners.*;
+import main.java.me.notpseudo.riskyblocks.listeners.BlockBreak;
+import main.java.me.notpseudo.riskyblocks.listeners.LifeSteal;
 import org.bukkit.plugin.java.JavaPlugin;
 
 

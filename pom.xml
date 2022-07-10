@@ -9,9 +9,9 @@
     <version>1.1</version>
     <packaging>jar</packaging>
 
-    <name>RevolutionSMP</name>
+    <name>RiskyBlocks</name>
 
-    <description>A custom plugin for the RevolutionSMP</description>
+    <description>A plugin that does random stuff when players break blocks</description>
     <properties>
         <java.version>18</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

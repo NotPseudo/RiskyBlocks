@@ -1,6 +1,6 @@
-package me.NotPseudo.RiskyBlocks.listeners;
+package main.java.me.notpseudo.riskyblocks.listeners;
 
-import me.NotPseudo.RiskyBlocks.Main;
+import main.java.me.notpseudo.riskyblocks.Main;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.entity.EntityType;
